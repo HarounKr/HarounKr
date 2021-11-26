@@ -18,3 +18,5 @@
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hkrifa/Philosophers)](https://github.com/JaeSeoKim/badge42)
 # minishell
 [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hkrifa/minishell)](https://github.com/JaeSeoKim/badge42)
+# cub3D
+[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/hkrifa/cub3D)](https://github.com/JaeSeoKim/badge42)
